@@ -8,6 +8,14 @@ Coded in Node.js
 
 <hr>
 
+Download necesary files
+
+> 
+
+Here you can find the 2 files necesary to download the files
+
+<hr>
+
 How to use
 
 Open a CMD on the folder an put node index.js

@@ -26,6 +26,6 @@ Download Node
 
 Dependencies
 
-> npm install qrcode-terminal
+> npm install qrcode-terminal <br>
 > npm install whatsapp-web.js
 > npm install youtube-dl-exec
